@@ -1,5 +1,13 @@
 privet mir!!
 menia zovut igor
+<<<<<<< HEAD
 ia student 1 kursa
 gropa 3000
 petrovsky kollege
+=======
+ia student 2 kursa
+gropa 3702
+sistemnik
+praktikant
+
+>>>>>>> fc7991aebd1ed788047b69426df6be2c20bd0c8f
