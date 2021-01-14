@@ -1,6 +1,5 @@
 privet mir!!
 menia zovut igor
-ia student 3 kursa
-ia student 4 kursa
-gropa 3702
+ia student 1 kursa
+gropa 3000
 petrovsky kollege
