@@ -1,6 +1,7 @@
 privet mir!!
 menia zovut igor
-ia student 3 kursa
-ia student 4 kursa
+ia student 2 kursa
 gropa 3702
-petrovsky kollege
+sistemnik
+praktikant
+
