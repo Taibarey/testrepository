@@ -1,0 +1,4 @@
+ia student 2 kursa
+gropa 3702
+sistemnik
+praktikant
