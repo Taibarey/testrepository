@@ -1,6 +1,7 @@
 privet mir!!
 menia zovut igor
 <<<<<<< HEAD
+<<<<<<< HEAD
 ia student 1 kursa
 gropa 3000
 petrovsky kollege
@@ -8,3 +9,9 @@ petrovsky kollege
 
 
 >>>>>>> fc7991aebd1ed788047b69426df6be2c20bd0c8f
+=======
+ia student 3 kursa
+ia student 4 kursa
+gropa 3702
+petrovsky kollege
+>>>>>>> parent of fc7991a (nowya vetka)
